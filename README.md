@@ -6,7 +6,8 @@
 
 Requirements
 
-   EssintialMode
+   
+EssintialMode
    vRP Framework
 
 # Installation
