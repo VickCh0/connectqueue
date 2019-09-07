@@ -1,4 +1,4 @@
-# connectqueue
+# Rights
 
 
  I Don't have any rights of this script. 
